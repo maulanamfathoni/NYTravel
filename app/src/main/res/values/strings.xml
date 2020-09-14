@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NY Travel</string>
+    <string name="jumlah_saldo">Jumlah Saldo</string>
+    <string name="top_up">Top Up</string>
+    <string name="keberangkatan">Keberangkatan</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="rp_0">Rp</string>
+    <string name="waktu">Waktu</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="pulang_pergi">Pulang Pergi</string>
+    <string name="jumlah_tiket">Jumlah Tiket</string>
+    <string name="jumlaht">0</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="_0">0</string>
+    <string name="tujuan2">Tujuan</string>
+    <string name="tanggal_keberangkatan">Tanggal Keberangkatan</string>
+    <string name="summary">Summary</string>
+    <string name="tanggal_pulang">Tanggal Pulang</string>
+    <string name="jumlah_tiket2">Jumlah tiket</string>
+    <string name="konfirmasi_pemesanan">Konfirmasi Pemesanan</string>
+    <string name="harga_total">Harga Total</string>
+    <string-array name="destination_array">
+        <item>Bandung Rp 100.000</item>
+        <item>Jakarta Rp 100.000</item>
+        <item>Yogyakarta Rp 300.000</item>
+        <item>Bali Rp 500.000</item>
+        <item>Palembang Rp 200.000</item>
+    </string-array>
+</resources>
